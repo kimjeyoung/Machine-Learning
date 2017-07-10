@@ -1,4 +1,3 @@
-#°ú¿¬ ¹Ù²ð±î
 from numpy import *
 import operator
 from collections import Counter
