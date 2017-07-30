@@ -13,3 +13,6 @@ Using Python, Numpy, Tensorflow
 >* Deep-learning
 >>1. MLP Regression
 >>2. Convolution neural network nlp
+
+>* Unsupervised learning
+>>1. k-means clustering
