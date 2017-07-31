@@ -9,6 +9,7 @@ Using Python, Numpy, Tensorflow
 >>3. Decision tree
 >>4. Linear Regression
 >>5. Logistic Regression
+>>6. Ensemble model
 
 >* Deep-learning
 >>1. MLP Regression
