@@ -15,7 +15,7 @@ Using Python, Numpy, Tensorflow, scikit-learn을 사용합니다.
 >>1. MLP Regression
 >>2. Convolution neural network nlp
 >>3. Convolution neural network custom image
->>4. Deepmind relational network (VQN)
+
 
 >* Unsupervised learning
 >>1. k-means clustering
