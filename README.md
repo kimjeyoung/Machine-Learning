@@ -17,6 +17,7 @@ Using Python, Numpy, Tensorflow, scikit-learn을 사용합니다.
 >>3. Convolution neural network custom image
 >>4. deepminde relational network
 >>5. fully convolutional network
+>>6. Deep Convolutional Generative Adversarial Network for text to image
 
 
 >* Unsupervised learning
